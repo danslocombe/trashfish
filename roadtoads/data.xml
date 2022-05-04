@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>RoadToads</title>
+  <release-date>Upcoming Summer 2022</release-date>
+  <website>roadtoads.io</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request>mailto:trashfishgames@gmail.com</press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Web</name>
+      <link></link>
+    </platform>
+    <platform>
+      <name>Windows</name>
+      <link></link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>Free to play</currency>
+      <value></value>
+    </price>
+  </prices>
+
+  <description>RoadToads is multiplayer frogger with pushing. A fast-paced social game, built into a zero barrier to entry browser experience.</description>
+
+  <!-- Choose between a single block: -->
+  <history>
+    After the success of <i>First Annual Road Toads World Championship</i> in 2019 with the crowning of the <i>World Champion</i> we knew we had a special prototype.
+
+    We started developing RoadToads.io, a free version for the browser as the covid pandemic set in and offline play left impossible.
+    We are now coming up to a public release date scheduled summer 2022.
+  </history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>Play from browser with zero barrier to entry</feature>
+    <feature>Up to 8 concurrent players</feature>
+    <feature>Fast paced action with easy to pickup, hard to master mechanics</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>World Championship 2019 Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        9SEvqcNTy4I
+        <!-- Video ID only, not the full URL -->
+      </youtube>
+    </trailer>
+  </trailers>
+
+<!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name></name>
+
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+ -->
+</product>
